@@ -5,7 +5,7 @@ Materialize is a modern browser responsive Front-end CSS framework and base of g
 
 # Installation
 
-'npm i materialize buttons palette kit --save'
+ 'npm i materialize buttons palette kit --save'
 
 
 Then....
