@@ -9,7 +9,8 @@ $ 'npm i materialize buttons palette kit --save'
 ```
 
 Then....
-##just use this class in buttons
+## just use this class in buttons
+
 "waves-effect waves-light btn red lighten-1"
 
 ......
