@@ -10,6 +10,6 @@ Materialize is a modern browser responsive Front-end CSS framework and base of g
 
 Then....
 
-   <a class="waves-effect waves-light btn red lighten-1">button</a>
+"waves-effect waves-light btn red lighten-1"
 
 ......
